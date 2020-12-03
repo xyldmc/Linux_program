@@ -12,4 +12,4 @@
 10.0	/home/newtql/day_12
 14.142135623730951	/home/newtql/day_1201
 14.142135623730951	/home/newtql/day_1202
-10.0	/home/newtql/test
+14.142135623730951	/home/newtql/test
