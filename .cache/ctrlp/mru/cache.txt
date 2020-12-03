@@ -1,3 +1,4 @@
+/home/newtql/new_scdaima.sh
 /home/newtql/post_programe.sh
 /home/newtql/.zlogin
 /home/newtql/day_1202/a.log
