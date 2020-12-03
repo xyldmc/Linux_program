@@ -3,7 +3,7 @@
 #git config --global user.name "xyldmc"
 git remote rm origin
 
-git remote add origin 'https://github.com/xyldmc/Linux_program'
+git remote add origin 'https://github.com/xyldmc/Linux_program.git'
 git pull remote master
 git add .
 git commit -m $1
