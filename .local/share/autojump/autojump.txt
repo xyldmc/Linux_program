@@ -1,0 +1,15 @@
+24.49489742783178	/home/newtql/day_01
+14.142135623730951	/home/newtql/day_02
+26.457513110645905	/home/newtql/day_03
+10.0	/home/newtql/day_03/day_04
+20.0	/home/newtql/day_05
+14.142135623730951	/home/newtql/day_1126
+22.360679774997898	/home/newtql/day_1128
+31.622776601683796	/home/newtql/day_1129
+17.320508075688775	/home/newtql/homework1
+10.0	/home/newtql/day_1130
+14.142135623730951	/home/newtql/day_1129/test
+10.0	/home/newtql/day_12
+14.142135623730951	/home/newtql/day_1201
+14.142135623730951	/home/newtql/day_1202
+10.0	/home/newtql/test
